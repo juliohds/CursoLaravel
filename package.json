@@ -1,4 +1,6 @@
 {
+  "name": "appCliente",
+  "version": "083017",
   "private": true,
   "scripts": {
     "dev": "npm run development",
